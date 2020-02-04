@@ -12,6 +12,10 @@
   "dependencies": {
     "element-ui": "^2.9.1",
     "js-base64": "^2.5.1",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.15",
+    "mem": "^6.0.1",
+    "mixin-deep": "^2.0.1",
     "serialize-javascript": "^2.1.2",
     "set-value": "^3.0.1",
     "vue": "^2.5.2",
